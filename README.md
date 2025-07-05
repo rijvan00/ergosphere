@@ -6,11 +6,11 @@ An intelligent to-do list app that automatically categorizes, prioritizes, and s
 
 ## 📸 Screenshots
 
-![{ABA0E179-C627-4ED8-AC45-C89D7E16A18F}](https://github.com/user-attachments/assets/e322ca6c-dfa6-4e6a-a88e-06496e5da235)
-![{2E5C6075-7526-4CA1-8CEC-0CD2BB118B0A}](https://github.com/user-attachments/assets/3fc5e87a-d48a-469e-8ec4-86feed7c35f2)
-![{9F8B0EB4-E2B0-4C59-88A3-BC114A3ECAC2}](https://github.com/user-attachments/assets/009a1322-e7a0-4c0e-8eb8-d829ae908fe3)
-![{33E3C349-0021-4867-839E-B313DB331727}](https://github.com/user-attachments/assets/35fe96fe-5bab-4f22-9832-adbb810261b0)
-![{00A6CE75-C6B1-41A2-B432-B54F413AB4D5}](https://github.com/user-attachments/assets/01d88d87-de8d-4c87-98fe-cc956ca34e74)
+![{85E33C95-1F9E-4C06-86B2-92802EF5C75E}](https://github.com/user-attachments/assets/52ea8ed0-c884-4a4c-aaca-bb0e6fe589e6)
+![{08F65629-24C6-4219-9A36-5510C429DE8A}](https://github.com/user-attachments/assets/a79f26cf-8761-41ce-920e-ec5e029765d4)
+![{8227997C-7E50-477E-A09C-4C3B72624B75}](https://github.com/user-attachments/assets/54ccef99-d24a-4e28-913a-d885f9ee017b)
+![{52934CA9-1E78-4C6E-9FBF-B8B812A27557}](https://github.com/user-attachments/assets/d7a5b320-327d-40cb-97d1-b1a45b56f33f)
+![{6B91ADA0-EE54-4250-9D0A-81F41BDF4E4F}](https://github.com/user-attachments/assets/786e5593-bc8b-4097-909d-eeeffe6e9e77)
 
 ---
 
